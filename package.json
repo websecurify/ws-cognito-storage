@@ -1,0 +1,19 @@
+{
+  "name": "ws-cognito-storage",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "true"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/websecurify/ws-cognito-storage.git"
+  },
+  "author": "pdp",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/websecurify/ws-cognito-storage/issues"
+  },
+  "homepage": "https://github.com/websecurify/ws-cognito-storage#readme"
+}
