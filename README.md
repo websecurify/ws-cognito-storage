@@ -1,0 +1,1 @@
+# ws-cognito-storage
