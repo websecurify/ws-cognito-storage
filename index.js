@@ -1,7 +1,7 @@
 module.exports = function (callback) {
     if (callback) {
-        callback(null, localStorage)
+        callback(null, localStorage, window)
     } else {
-        return Promise.resolve(localStorage)
+        return Promise.resolve({storage: localStorage, source: window})
     }
 }
